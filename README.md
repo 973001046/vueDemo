@@ -2,16 +2,17 @@
 
 > A Vue.js project
 
-#注意：用淘宝镜像，否则会有依赖下载不全
-$ cnpm install -g vue-cli
-$ vue init webpack my-project
-$ cd my-project
-$ cnpm install
-$ cnpm run dev
 
 ## Build Setup
 
 ``` bash
+#注意：用淘宝镜像，否则会有依赖下载不全
+cnpm install -g vue-cli
+vue init webpack my-project
+cd my-project
+cnpm install
+cnpm run dev
+
 # install dependencies
 npm install
 
